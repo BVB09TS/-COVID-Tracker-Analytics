@@ -7,6 +7,11 @@ The goal is to build a **complete data pipeline**, from data ingestion and stora
 
 The project includes both the **current state** (Python scripts for data analysis) and the **target state** (full data-engineering pipeline with PySpark, HDFS, ETL, analysis, and visualization).
 
+* Track and compare COVID search trends across U.S. states.
+* Correlate trends with demographics (age, income, poverty, transit).
+* Provide interactive dashboards for insights and monitoring.
+* Apply machine learning to forecast emerging trends and potential outbreaks.
+
 ---
 
 ## Current Project State
