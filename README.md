@@ -99,9 +99,3 @@ The project includes both the **current state** (Python scripts for data analysi
 
 
 
-*
-# COVID Tracker Analytics – Interpretation of Results
-
-This section provides an interpretation of the results produced by the current `-COVID-Tracker-Analytics` project, focusing on state-level COVID search trends and insights.
-
----
