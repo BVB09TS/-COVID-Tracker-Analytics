@@ -206,7 +206,6 @@ with tab4:
         # OpenAI GPT API function
         # -----------------------------
         def ask_openai(prompt: str, retries=2, delay=5):
-            API_KEY = "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"
             url = "https://api.openai.com/v1/chat/completions"
             headers = {
                 "Authorization": f"Bearer {API_KEY}",
