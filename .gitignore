@@ -8,10 +8,10 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Data
-data/raw/
-data/clean/
-data/metadata/
-results/
+#data/raw/
+#data/clean/
+#data/metadata/
+#results/
 
 # Environments
 .env
