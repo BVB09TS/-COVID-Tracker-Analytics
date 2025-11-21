@@ -98,4 +98,8 @@ The project includes both the **current state** (Python scripts for data analysi
   * Spark caching to optimize reads and processing
 
 
+![Architecture AWS - Data Insight](https://github.com/user-attachments/assets/deeed5a2-b276-4601-8b46-bb7d4bf70850)
+
+
+
 
